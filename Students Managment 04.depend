@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1482622989 source:c:\users\adel atef\downloads\work\university\term 3\programming 1\project\students managment 04\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<stdbool.h>
+
